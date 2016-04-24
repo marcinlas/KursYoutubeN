@@ -21,7 +21,7 @@ public class KursYoutube_4
         {
 
         }
-        switch (zmienna)
+    /*    switch (zmienna)
         
         String imie = "Burek";
         
@@ -37,7 +37,7 @@ public class KursYoutube_4
                 break;
             default:
                 break;
-        }
+        }   /**/
 
         while (zmienna == 10)
         {
